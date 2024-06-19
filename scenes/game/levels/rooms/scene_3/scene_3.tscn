@@ -31,6 +31,6 @@ theme_override_font_sizes/font_size = 24
 text = "Continuará..."
 
 [node name="DoorChangeScene" parent="." instance=ExtResource("5_ht8i6")]
-position = Vector2(583, 448)
+position = Vector2(583, 474)
 scale = Vector2(0.8, 0.8)
 _path_to_scene = "res://scenes/game/levels/rooms/scene_4/scene_4.tscn"
